@@ -3,14 +3,10 @@
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzz888&label=Profile%20views&color=0e75b6&style=flat" alt="hzz888" /> </p>
-
 - 🔭 I’m currently working on [CNPoetryKG](https://github.com/hzz888/CNPoetryKG)
 
 - 🌱 I’m currently learning **React and Node.js**
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -19,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzz888&show_icons=true&locale=en&layout=compact" alt="hzz888" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzz888&show_icons=true&locale=en" alt="hzz888" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzz888&show_icons=true&locale=en&theme=synthwave" alt="hzz888" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzz888&" alt="hzz888" /></p>
