@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hzz.</h1>
 <h3 align="center">WIP Full Stack Developer(Early Preview).🤣</h3>
 
-<h3 align="left">Operation Systems:</h3>
+<h3 align="left">Operating Systems:</h3>
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
