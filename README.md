@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hzz888</h1>
-<h3 align="center">WIP Full Stack Developer.🤣</h3>
+<h3 align="center">WIP Full Stack Developer(Early Preview).🤣</h3>
 
 <h3 align="left">Operation Systems:</h3>
 
