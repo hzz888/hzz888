@@ -19,8 +19,8 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzz888&show_icons=true&locale=en&layout=compact&theme=radical" alt="hzz888" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzz888&show_icons=true&locale=en&theme=synthwave" alt="hzz888" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzz888&show_icons=true&locale=en&layout=compact&theme=radical" alt="hzz888" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzz888&theme=radical" alt="hzz888" /></p>
 <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=hzz888&theme=dracula" alt="hzz888" /></p>
 
