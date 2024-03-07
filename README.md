@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-## My name is Zhengzuo Huo. 
-I'm a full-stack web developer and cloud developer.
+## My name is Zhengzuo(Zachary) Huo. 
+
+### I'm a full-stack web developer and cloud developer.
+
+### Keep building and exploring!
